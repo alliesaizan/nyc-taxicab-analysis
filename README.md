@@ -8,7 +8,7 @@ The analysis for this project can be found in the [notebooks folder](notebooks/a
 I made the following assumptions while conducting this analysis: 
 
 - The demographic data provided is collected at the zone level 
-- The word “recommend” in question 5 implies that the question is asking us to build a recommendation system; however, predictions from a supervised learning algorithm are sufficient to act as a recommendation for a passenger’s tip percentage based on historical data 
+- The word “recommend” in question 5 implies that the question is asking us to build a recommendation system; however, predictions from a supervised learning algorithm are sufficient to act as “recommendations” on what percentage a passenger should tip based on historical data 
 - Choropleth maps are sufficient for understanding high-level traffic trends 
 
 ## Methods 
